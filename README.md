@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moulika-nagulavancha&hide_progress=false)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moulika-nagulavancha&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=moulika-nagulavancha&theme=onedark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moulika-nagulavancha&theme=dark&border_radius=5)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moulika-nagulavancha&theme=dark&border_radius=5)
