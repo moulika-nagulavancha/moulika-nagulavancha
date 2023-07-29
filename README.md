@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moulika-nagulavancha&hide_progress=true)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=moulika-nagulavancha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moulika-nagulavancha&theme=dark&border_radius=5)](https://git.io/streak-stats)
