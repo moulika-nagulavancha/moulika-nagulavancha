@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image-dev.png)
 
 - 🔭 I’m currently pursuing a master's in computer science at the University of Central Missouri.
 - 🌱 I’m currently learning Amazon Web Services and Spring Boot Microservices.
