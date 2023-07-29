@@ -1,10 +1,4 @@
-### Hello World 👋
-
-<!--
-**moulika-nagulavancha/moulika-nagulavancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-I'm a Software Developer.
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently pursuing a master's in computer science at the University of Central Missouri.
 - 🌱 I’m currently learning Amazon Web Services and Spring Boot Microservices.
