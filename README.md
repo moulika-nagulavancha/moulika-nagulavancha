@@ -3,7 +3,9 @@
 - 🔭 I’m currently pursuing a master's in computer science at the University of Central Missouri.
 - 🌱 I’m currently learning Amazon Web Services and Spring Boot Microservices.
 - 💬 Ask me about anything related to Java, Spring Boot, Angular
-- 📫 How to reach me: https://www.linkedin.com/in/moulika-nagulavancha/
+- 📫 How to reach me:
+  - https://www.linkedin.com/in/moulika-nagulavancha/
+  - https://github.com/moulika-nagulavancha/mnagulavancha-portfolio
 - 😄 Pronouns: She/Her
 
 ### Languages Used:
