@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=moulika-nagulavancha&theme=onedark)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moulika-nagulavancha&theme=dark&border_radius=5)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moulika-nagulavancha)](https://git.io/streak-stats)
+
